@@ -9,7 +9,7 @@
 
 ## ❕ Créditos
 
-Criei esse projeto seguindo um Layout que encontrei na página da Comunidade do [Figma](https://www.figma.com/community), por tanto o que pertence a mim é apenas o código HTML e CSS.
+Criei esse projeto seguindo um Layout que encontrei na página da Comunidade do [Figma](https://www.figma.com/community), portanto o que crei foi apenas o código HTML e CSS.
 
 O [Layout no Figma](https://www.figma.com/community/file/1107059844636605099) foi criado pelo Hamdy Elzonqali: [@hamdy34](https://www.figma.com/@hamdy34) – Todos os direitos do Layout original são dele.
 
